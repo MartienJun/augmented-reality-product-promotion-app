@@ -15,7 +15,7 @@ public class MenuHandler : MonoBehaviour
         Debug.Log("Keluar..."); 
     } 
     
-    public void StartClicked(string scene_name) 
+    public void ChangeScreen(string scene_name) 
     { 
         SceneManager.LoadScene(scene_name); 
     } 
