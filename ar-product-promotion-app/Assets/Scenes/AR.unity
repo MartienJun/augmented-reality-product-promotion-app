@@ -254,7 +254,6 @@ GameObject:
   - component: {fileID: 116934964}
   - component: {fileID: 116934963}
   - component: {fileID: 116934962}
-  - component: {fileID: 116934967}
   m_Layer: 0
   m_Name: ImageTarget1
   m_TagString: Untagged
@@ -368,18 +367,6 @@ MonoBehaviour:
   mImageTargetType: 0
   mWidth: 100
   mHeight: 100
---- !u!114 &116934967
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 116934960}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a917f0af64a6423093132dab321c15f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &140223633
 GameObject:
   m_ObjectHideFlags: 0
