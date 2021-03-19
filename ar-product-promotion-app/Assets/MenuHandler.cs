@@ -9,6 +9,7 @@ public class MenuHandler : MonoBehaviour
     public GameObject ExitMenu;
     public string UrlInstagram = "https://www.instagram.com/martienjunaedi/";
     public string UrlGithub = "https://github.com/MartienJun";
+
     public void ExitApp() 
     { 
         Application.Quit(); 
